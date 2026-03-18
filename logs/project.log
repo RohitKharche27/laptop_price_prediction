@@ -1104,3 +1104,4 @@ src.exception.PricePredictorException: Data ingestion failed: [Errno 2] No such 
 [2026-03-18 12:52:07] INFO - Model push info: {'versioned_path': 'prediction\\models\\models\\best_model_20260318_125207.joblib', 'active_path': 'prediction\\models\\models\\current_model.joblib'}
 [2026-03-18 12:52:07] INFO - Pipeline summary written to: artifacts\pipeline_summary.json
 [2026-03-18 12:52:07] INFO - ======== Pipeline finished successfully ========
+[2026-03-18 13:17:32] INFO -  Laptop Price Prediction package initialized

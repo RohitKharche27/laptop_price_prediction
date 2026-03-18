@@ -6,7 +6,7 @@ from pathlib import Path
 import json
 import io
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='static', template_folder='templates')
 
 # Paths configuration
 PROJECT_ROOT = Path.cwd()
